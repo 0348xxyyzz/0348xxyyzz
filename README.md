@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Andy T
-- 👀 I’m interested in ...
+- 👀 I’m interested in many things
 - 🌱 I’m currently learning MERN Stack
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate with you :))
 - 📫 How to reach me https://www.facebook.com/profile.php?id=100015286692877
 
 <!---
